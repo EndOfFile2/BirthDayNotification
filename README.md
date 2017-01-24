@@ -1,6 +1,8 @@
 # BirthDayNotification
+
 Birth Day Notification Application
-echo "# BirthDayNotification" >> README.mdd
+
+echo "# BirthDayNotification" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
